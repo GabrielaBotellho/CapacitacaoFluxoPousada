@@ -1,0 +1,16 @@
+[
+  {
+    "ID": 1,
+    "nome": "Gabriela",
+    "senha": "123",
+    "endereco": "Rua 5 ",
+    "email": "gabriela@gmail.com"
+  },
+  {
+    "id": null,
+    "senha": "123",
+    "nome": "Tereza",
+    "endereco": "Rua das lamentações",
+    "email": "tereza@gmail.com"
+  }
+]

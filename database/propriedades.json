@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "nome": "Pousada Azul",
+    "endereco": "@pousadaazul",
+    "capacidade": "Rua 1",
+    "quartos": "200 hóspedes",
+    "preco": "100 quartos",
+    "disponibilidade": "150/noite"
+  },
+  {
+    "id": 2,
+    "nome": "Pousada Vermelha",
+    "endereco": "@pousadavermelha",
+    "capacidade": "Rua 2",
+    "quartos": "300 hóspedes",
+    "preco": "160 quartos",
+    "disponibilidade": "150/noite"
+  },
+  {
+    "id": 3,
+    "nome": "Pousada Roxa",
+    "endereco": "@pousadaroxa",
+    "capacidade": "Rua 3",
+    "quartos": "100 hóspedes",
+    "preco": "40 quartos",
+    "disponibilidade": "150/noite"
+  }
+]

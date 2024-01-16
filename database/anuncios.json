@@ -1,0 +1,10 @@
+[
+    {
+        "id" : 1,
+        "idProprietario" : 4,
+        "idPropriedade" : 2,
+        "titulo" : "Quarto com vista",
+        "descricao" : "Quarto para 2 pessoas ",
+        "status" : "disponível"
+    }
+]
